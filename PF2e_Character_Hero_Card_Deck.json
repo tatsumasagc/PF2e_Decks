@@ -1,0 +1,195 @@
+{
+	"schema_version": 1,
+	"decks": [
+		{
+			"attributes": {
+				"name": "Pathfinder 2E - Hero Card Deck",
+				"currentDeck": "",
+				"currentIndex": -1,
+				"currentCardShown": true,
+				"showplayers": false,
+				"show_tooltips": false,
+				"playerscandraw": false,
+				"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_Back.png?raw=true",
+				"shown": false,
+				"players_seenumcards": true,
+				"players_seefrontofcards": true,
+				"gm_seenumcards": true,
+				"gm_seefrontofcards": true,
+				"infinitecards": false,
+				"cardSequencer": -1,
+				"cardsplayed": "faceup",
+				"defaultheight": "",
+				"defaultwidth": "",
+				"discardpilemode": "none",
+				"discardPile": "",
+				"removedcardsmode": "none",
+				"removedcards": "none",
+				"deckpilemode": "choosefronts_gm",
+				"treatasdrawing": true,
+				"dealToOffline": false,
+				"id": "-NCKb0RgNdHBXbiL_vGK",
+				"cards": {
+					"-NCKeOQifqV0ZDpQHTOv": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_01_Endure_the_Onslaught.jpg?raw=true",
+						"id": "-NCKeOQifqV0ZDpQHTOv",
+						"name": "PF2eHCD_01_Endure_the_Onslaught"
+					},
+					"-NCKeOR5ueUYfiuTryj8": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_02_Flash_of_Insight.jpg?raw=true",
+						"id": "-NCKeOR5ueUYfiuTryj8",
+						"name": "PF2eHCD_02_Flash_of_Insight"
+					},
+					"-NCKeORMxrBWVlKD2KHz": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_03_Healing_Prayer.jpg?raw=true",
+						"id": "-NCKeORMxrBWVlKD2KHz",
+						"name": "PF2eHCD_03_Healing_Prayer"
+					},
+					"-NCKeORe-nw4DA-nNPCq": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_04_Magical_Reverberation.jpg?raw=true",
+						"id": "-NCKeORe-nw4DA-nNPCq",
+						"name": "PF2eHCD_04_Magical_Reverberation"
+					},
+					"-NCKeOS1bek4HilKSWk5": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_05_Make_Way.jpg?raw=true",
+						"id": "-NCKeOS1bek4HilKSWk5",
+						"name": "PF2eHCD_05_Make_Way"
+					},
+					"-NCKeOSImz6j0OZmZ2Ip": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_06_Rending_Swipe.jpg?raw=true",
+						"id": "-NCKeOSImz6j0OZmZ2Ip",
+						"name": "PF2eHCD_06_Rending_Swipe"
+					},
+					"-NCKeOScsjnoE8PQzWYS": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_07_Reverse_Strike.jpg?raw=true",
+						"id": "-NCKeOScsjnoE8PQzWYS",
+						"name": "PF2eHCD_07_Reverse_Strike"
+					},
+					"-NCKeOSt2-6ftbFOiZWF": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_08_Run_and_Shoot.jpg?raw=true",
+						"id": "-NCKeOSt2-6ftbFOiZWF",
+						"name": "PF2eHCD_08_Run_and_Shoot"
+					},
+					"-NCKeOTA9CAk3rQdKaUb": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_09_Shoot_Through.jpg?raw=true",
+						"id": "-NCKeOTA9CAk3rQdKaUb",
+						"name": "PF2eHCD_09_Shoot_Through"
+					},
+					"-NCKeOTQVg5-KWjnuPs1": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_10_Stoke_the_Magical_Flame.jpg?raw=true",
+						"id": "-NCKeOTQVg5-KWjnuPs1",
+						"name": "PF2eHCD_10_Stoke_the_Magical_Flame"
+					},
+					"-NCKeOThO3txc-6K1jvT": {
+						"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_11_Strike_True.jpg?raw=true",
+						"id": "-NCKeOThO3txc-6K1jvT",
+						"name": "PF2eHCD_11_Strike_True"
+					}
+				},
+				"infinitecardstype": "random"
+			},
+			"cards": [
+				{
+					"name": "PF2eHCD_01_Endure_the_Onslaught",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_01_Endure_the_Onslaught.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOQifqV0ZDpQHTOv"
+				},
+				{
+					"name": "PF2eHCD_02_Flash_of_Insight",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_02_Flash_of_Insight.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOR5ueUYfiuTryj8"
+				},
+				{
+					"name": "PF2eHCD_03_Healing_Prayer",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_03_Healing_Prayer.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeORMxrBWVlKD2KHz"
+				},
+				{
+					"name": "PF2eHCD_04_Magical_Reverberation",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_04_Magical_Reverberation.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeORe-nw4DA-nNPCq"
+				},
+				{
+					"name": "PF2eHCD_05_Make_Way",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_05_Make_Way.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOS1bek4HilKSWk5"
+				},
+				{
+					"name": "PF2eHCD_06_Rending_Swipe",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_06_Rending_Swipe.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOSImz6j0OZmZ2Ip"
+				},
+				{
+					"name": "PF2eHCD_07_Reverse_Strike",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_07_Reverse_Strike.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOScsjnoE8PQzWYS"
+				},
+				{
+					"name": "PF2eHCD_08_Run_and_Shoot",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_08_Run_and_Shoot.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOSt2-6ftbFOiZWF"
+				},
+				{
+					"name": "PF2eHCD_09_Shoot_Through",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_09_Shoot_Through.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOTA9CAk3rQdKaUb"
+				},
+				{
+					"name": "PF2eHCD_10_Stoke_the_Magical_Flame",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_10_Stoke_the_Magical_Flame.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOTQVg5-KWjnuPs1"
+				},
+				{
+					"name": "PF2eHCD_11_Strike_True",
+					"avatar": "https://github.com/tatsumasagc/PF2e_Decks/blob/main/Pathfinder%202E%20-%20Hero%20Card%20Deck/PF2eHCD_11_Strike_True.jpg?raw=true",
+					"card_back": "",
+					"is_removed": false,
+					"tooltip": "",
+					"placement": 99,
+					"id": "-NCKeOThO3txc-6K1jvT"
+				}
+			]
+		}
+	],
+	"journal": []
+}
